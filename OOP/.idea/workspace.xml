@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70bdbd3e-69ba-458d-bc35-c3ca62ccb3f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/bin/Debug/sas_2021.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/sas_2021.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/sas_2021.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nouveau dossier/sas_2021/sas_2021.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brief3/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brief3/brief3-Youcode" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/CHARTE GRAPHIQUE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/Frame 64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/contact desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/hotels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/page apres login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/page home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/page insc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/page login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/voitures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/vols.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/desktop/vols2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/Frame 136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/Frame 137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/Frame 138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/Hotel - 10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/contact mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/page 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/page apres log.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/page insc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/page login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/voitures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/vols 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/mobile/vols- 9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/MacBook - 9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/WIREFRAME INSC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/WIREFRAME PAGE 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/WIREFRAME login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/ZONING INSC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/ZONING hotels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/ZONING menu 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/ZONING menu 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/ZONING menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/waireframe page (hotels).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/waireframe page (inscription).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/waireframe page (voitures).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/waireframe page (vols).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe VOLS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe VOitures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe apres zoning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe hotels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe menu 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe menu-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe page (home).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/wireframe page(apres iscription).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning VOLS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning VOitureS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning apres login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning pag (inscription).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page (home).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page (hotels).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page (voitures).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page (vols).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning page(home)vrs mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figma/zoning et warefrime/zoning vols 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-me/brief3-Youcode" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-Git/HTML-tags" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25CnVWRE5jOOla1AfZlTMYK8NDA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70bdbd3e-69ba-458d-bc35-c3ca62ccb3f8" name="Changes" comment="" />
+      <created>1645039972112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645039972112</updated>
+      <workItem from="1645039975851" duration="20000" />
+      <workItem from="1645040011648" duration="11000" />
+    </task>
+    <servers />
+  </component>
+</project>
